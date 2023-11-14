@@ -7,24 +7,24 @@ git clone https://github.com/fillasetyanajunior/mobile-app-raact-native
 2. Kedua install project
 NPM
 ```
-npm -i
+$ npm -i
 ```
 atau
 ```
-npm install
+$ npm install
 ```
 
 Yarn
 ```
-yarn install
+$ yarn install
 ```
 3. Ketiga nyalakan emulator
 4. terakhir jalankan projectnya
 NPM
 ```
-npm expo start
+$ npm expo start
 ```
 Yarn
 ```
-yarn expo start
+$ yarn expo start
 ```
